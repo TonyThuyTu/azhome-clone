@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    margin: auto;
+}
+
+:root {
+    --main-color: rgb(240, 132, 32);
+    --second-color: rgb(1, 31, 96);
+    --third-color: rgb(77, 179, 61);
+    
+}
+
+/* Header */
+.head-contact{
+    background-color: var(--third-color);
+    padding: 5px;
+}
+
+.head-contact .social-icons {
+    color:white ;
+}
